@@ -1,0 +1,6 @@
+.DS_Store
+
+mysmtp_server
+mysmtp_client
+
+mailbox/
